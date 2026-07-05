@@ -1,4 +1,4 @@
-# goit-markup-hw-02
+# goit-markup-hw-03
 
 Third homework assignment for the “Full-Stack Developer” course.
 GoIT.
